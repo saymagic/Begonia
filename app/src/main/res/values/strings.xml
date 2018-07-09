@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Begonia</string>
+    <string name="title_photo_detail">Photo Detail</string>
+    <string name="constant_photos">Photos</string>
+    <string name="constant_liked">Liked</string>
+    <string name="constant_user">User</string>
+    <string name="constant_collections">Collections</string>
+    <string name="constant_search">search</string>
+    <string name="constant_retry">retry</string>
+    <string name="constant_set_as_desktop">set as wallpaper</string>
+    <string name="constant_save_to_album">save to album</string>
+    <string name="search_hint">searching photos、users or collections</string>
+    <string name="error_title">Error</string>
+    <string name="empty_title">No content</string>
+    <string name="empty_desc">Have a coffee break</string>
+    <string name="set_wallpaper_success">success</string>
+    <string name="save_to_system_success">save to %1$s</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="user_profile_item_titles">
+        <item>Photo</item>
+        <item>Like</item>
+        <item>Collection</item>
+    </string-array>
+
+
+    <string-array name="search_result_item_titles">
+        <item>Photo</item>
+        <item>Collection</item>
+        <item>User</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/set_as_desktop"
+        android:title="@string/constant_set_as_desktop"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/save_to_system"
+        android:title="@string/constant_save_to_album"
+        app:showAsAction="never" />
+</menu>

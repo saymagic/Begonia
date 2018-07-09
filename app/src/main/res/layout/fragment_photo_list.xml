@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+tools:context=".ui.fragment.PhotoListFragment">
+
+<com.vlonjatg.progressactivity.ProgressRelativeLayout
+    android:id="@+id/photoListProgressLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_below="@+id/activityToolbar"
+    app:loadingBackgroundColor="#FFFFFF"
+    app:emptyBackgroundColor="#FFFFFF"
+    app:errorBackgroundColor="#FFFFFF">
+
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/photoList"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="vertical"
+        >
+
+    </android.support.v7.widget.RecyclerView>
+</com.vlonjatg.progressactivity.ProgressRelativeLayout>
+
+</FrameLayout>
