@@ -7,10 +7,10 @@ Begonia is an unofficial unsplash client for people to view high-resolution phot
 
 
 <div>    
-    <img width="200px" style="display: inline; margin: 10px;" src="screens/1.0/1.PNG"/>
-    <img width="200px" style="display: inline" src="screens/1.0/2.PNG"/>
-    <img width="200px" style="display: inline" src="screens/1.0/3.PNG"/>
-       <img width="200px" style="display: inline" src="screens/1.0/4.PNG"/>
+    <img width="200px" style="display: inline; margin: 10px;" src="screens/1.0/1.png"/>
+    <img width="200px" style="display: inline" src="screens/1.0/2.png"/>
+    <img width="200px" style="display: inline" src="screens/1.0/3.png"/>
+       <img width="200px" style="display: inline" src="screens/1.0/4.png"/>
 </div>
 
 ## FQA
